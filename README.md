@@ -6,7 +6,7 @@ Shell script to grab random wallpapers from http://wallhaven.cc/ through regular
 
 #### Dependencies
 
-You need be installed the **lynx** command line browser.
+You need have installed the **lynx** command line browser.
 
 - installation on Debian based distros:
 
