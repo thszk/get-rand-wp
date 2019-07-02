@@ -22,4 +22,4 @@ You need have installed the **lynx** command line browser.
   $ ./randomWallpaper.sh
 ```
 
-The command above run the script and create a text file *random-wp* thats contains somes wallpaper's links. It also print output on terminal.
+The command above will print 24 images links on terminal.
